@@ -25,7 +25,7 @@ import sys
 import codecs
 
 # ------------------------------------------
-# FUNCTION process_line (Part 5)
+# FUNCTION process_line 
 # ------------------------------------------
 def process_line(line):
     # parsing each line to extract bike_id, total_duration and trip_count

@@ -25,7 +25,7 @@ import sys
 import codecs
 
 # ------------------------------------------
-# FUNCTION process_line (Part 6)
+# FUNCTION process_line 
 # ------------------------------------------
 def process_line(line):
     # parsing trips grouped per day into individual trip tuples
